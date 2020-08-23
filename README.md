@@ -1,7 +1,7 @@
 # SCPC
 
 ## 2020
-### Round 1
+### Round 1 (2020.08.21 ~ 2020.08.22)
 
 Problem | Score / Total Score | Runtime | Note
 ---|:---:|:---:|---
